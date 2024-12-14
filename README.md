@@ -23,3 +23,9 @@
 irm https://get.activated.win | iex
 ```
 按1（数字许可证激活，HWID方式，永久激活Windows）
+
+# 已正常运行的网站
+- [https://tb-miao.github.io/](https://tb-miao.github.io/)
+- [https://tb-miao.github.io/blog](https://tb-miao.github.io/blog)
+- [https://tb-miao.github.io/me](https://tb-miao.github.io/me)
+- [https://tb-miao.github.io/docs](https://tb-miao.github.io/docs)
