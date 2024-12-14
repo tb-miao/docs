@@ -2,7 +2,7 @@
 
 # TB-Docsify <small>3.5</small>
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/tb-miao/docs)
 [开始](#TB-Docsify)
 
 <!-- background image -->
