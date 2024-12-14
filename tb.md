@@ -29,3 +29,4 @@ irm https://get.activated.win | iex
 - [https://tb-miao.github.io/blog](https://tb-miao.github.io/blog)
 - [https://tb-miao.github.io/me](https://tb-miao.github.io/me)
 - [https://tb-miao.github.io/docs](https://tb-miao.github.io/docs)
+> 以上网站均正常运行，欢迎访问！
