@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_dumi=self.webpackChunkdocs_dumi||[]).push([[860],{80191:function(s,e,_){var n=_(48762),u=_(75271),t=_(52676);e.Z=function(){return(0,t.jsx)(n.Z,{bottom:"Open-source MIT Licensed | Copyright \xA9 2024-present by tb-miao",columns:void 0})}}}]);
